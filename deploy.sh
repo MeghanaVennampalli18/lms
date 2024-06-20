@@ -1,5 +1,5 @@
 # deploy using docker compose
-
+# sample commit to check 
 cd ~/lms-public
 
 git pull
